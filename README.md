@@ -21,8 +21,8 @@ operational signature.
 ## Installation
 
 ```bash
-git clone https://github.com/<user>/higher-order-agency.git
-cd higher-order-agency
+git clone https://github.com/YuririaCP/agency.git
+cd agency
 pip install -r requirements.txt        # numpy, scipy, matplotlib
 ```
 
